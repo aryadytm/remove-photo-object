@@ -1,0 +1,14 @@
+---
+version: '3'
+services:
+  st-remove-photo-object:
+    build: .
+    container_name: st-remove-photo-object
+    restart: unless-stopped
+    ports:
+    - 51003:8501
+    volumes:
+    - .:/app
+    environment:
+    - TZ=Asia/Jakarta
+    # command: streamlit run sdc.py
