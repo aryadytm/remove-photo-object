@@ -2,25 +2,7 @@
 
 This is an application that allows you to remove objects from your photos using AI technology. It provides a user-friendly interface where you can draw over the parts of the image you want to remove, and the AI will automatically remove them.
 
-## Installation
-
-1. Clone the repository:
-
-   ```shell
-   git clone https://github.com/aryadytm/ai-photo-object-removal.git
-   ```
-
-2. Install the dependencies:
-
-   ```shell
-   pip install -r requirements.txt
-   ```
-
----
-
-Feel free to customize the README.md file according to your needs and add more details about the application if necessary.
-
-## Quick Start
+## Setup
 
 Start (Non Docker)
 
