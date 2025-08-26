@@ -1,5 +1,7 @@
 # AI Photo Object Removal 🐈
 
+<img width="1000" height="330" alt="image" src="https://github.com/user-attachments/assets/8d5814ec-cfdc-460c-a69b-b641863a667f" />
+
 This is an application that allows you to remove objects from your photos using AI technology. It provides a user-friendly interface where you can draw over the parts of the image you want to remove, and the AI will automatically remove them.
 
 ## Setup
